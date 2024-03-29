@@ -10,7 +10,7 @@
       <ReadRegister>236</ReadRegister>
       <WriteRegister>236</WriteRegister>
       <MinSpeedValue>0</MinSpeedValue>
-      <MaxSpeedValue>8</MaxSpeedValue>
+      <MaxSpeedValue>9</MaxSpeedValue>
       <IndependentReadMinMaxValues>false</IndependentReadMinMaxValues>
       <MinSpeedValueRead>0</MinSpeedValueRead>
       <MaxSpeedValueRead>0</MaxSpeedValueRead>
@@ -21,32 +21,32 @@
         <TemperatureThreshold>
           <UpThreshold>0</UpThreshold>
           <DownThreshold>0</DownThreshold>
-          <FanSpeed>12.5</FanSpeed>
+          <FanSpeed>11.1111116</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>74</UpThreshold>
           <DownThreshold>70</DownThreshold>
-          <FanSpeed>25</FanSpeed>
+          <FanSpeed>22.2222233</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>81</UpThreshold>
           <DownThreshold>73</DownThreshold>
-          <FanSpeed>37.5</FanSpeed>
+          <FanSpeed>33.3333359</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>87</UpThreshold>
           <DownThreshold>80</DownThreshold>
-          <FanSpeed>50</FanSpeed>
+          <FanSpeed>44.4444466</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>91</UpThreshold>
           <DownThreshold>86</DownThreshold>
-          <FanSpeed>62.5</FanSpeed>
+          <FanSpeed>55.5555573</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>95</UpThreshold>
           <DownThreshold>90</DownThreshold>
-          <FanSpeed>75</FanSpeed>
+          <FanSpeed>66.66667</FanSpeed>
         </TemperatureThreshold>
       </TemperatureThresholds>
       <FanSpeedPercentageOverrides />
