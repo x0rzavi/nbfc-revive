@@ -14,7 +14,7 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: '4.5.x'
+        dotnet-version: '4.5'
         cache: true
     - run: dotnet restore --locked-mode
 
